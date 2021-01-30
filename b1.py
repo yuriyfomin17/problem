@@ -8,4 +8,8 @@ def maxDifference(px):  # function definition
     return maxDiff  # returning max difference.
 
 
+print("Hello")
+
+print("Hello")
+
 print(maxDifference([7, 1, 2, 5]))
